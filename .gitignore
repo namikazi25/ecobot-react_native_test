@@ -1,0 +1,26 @@
+# Expo and React Native
+/node_modules
+/ios/build
+/android/build
+/web-build
+/.expo
+/.cache
+/tmp
+/dist
+/web
+/assets/
+*.log
+*.tmp
+*.lock
+.DS_Store
+/.vscode/
+
+# Python Backend and Virtual Environment
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/instance/
+backend/logs/
+
+# Other
+.env
